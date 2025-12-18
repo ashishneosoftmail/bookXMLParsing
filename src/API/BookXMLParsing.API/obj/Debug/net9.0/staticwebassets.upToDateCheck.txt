@@ -1,0 +1,4 @@
+D:\Ashish_Old\Ashish\NeoSOFT\MusafirAssignment\BookXMLParsing_Final\BookXMLParsing\src\API\BookXMLParsing.API\wwwroot\Logs\Log_20251218.txt
+D:\Ashish_Old\Ashish\NeoSOFT\MusafirAssignment\BookXMLParsing_Final\BookXMLParsing\src\API\BookXMLParsing.API\wwwroot\XmlFile\Book.xml
+wwwroot\Logs\Log_20251218.txt
+wwwroot\XmlFile\Book.xml

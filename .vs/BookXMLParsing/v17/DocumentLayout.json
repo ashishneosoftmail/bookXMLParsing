@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ashish_Old\\Ashish\\NeoSOFT\\MusafirAssignment\\BookXMLParsing_Final\\BookXMLParsing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50B43A15-19C3-4F19-8ABA-8EE8B00F45BC}|src\\API\\BookXMLParsing.API\\BookXMLParsing.API.csproj|d:\\ashish_old\\ashish\\neosoft\\musafirassignment\\bookxmlparsing_final\\bookxmlparsing\\src\\api\\bookxmlparsing.api\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B43A15-19C3-4F19-8ABA-8EE8B00F45BC}|src\\API\\BookXMLParsing.API\\BookXMLParsing.API.csproj|solutionrelative:src\\api\\bookxmlparsing.api\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49A9044C-609E-49BC-B73B-046C759593A7}|src\\Core\\BookXMLParsing.Application\\BookXMLParsing.Application.csproj|d:\\ashish_old\\ashish\\neosoft\\musafirassignment\\bookxmlparsing_final\\bookxmlparsing\\src\\core\\bookxmlparsing.application\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49A9044C-609E-49BC-B73B-046C759593A7}|src\\Core\\BookXMLParsing.Application\\BookXMLParsing.Application.csproj|solutionrelative:src\\core\\bookxmlparsing.application\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B43A15-19C3-4F19-8ABA-8EE8B00F45BC}|src\\API\\BookXMLParsing.API\\BookXMLParsing.API.csproj|d:\\ashish_old\\ashish\\neosoft\\musafirassignment\\bookxmlparsing_final\\bookxmlparsing\\src\\api\\bookxmlparsing.api\\wwwroot\\xmlfile\\book.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{50B43A15-19C3-4F19-8ABA-8EE8B00F45BC}|src\\API\\BookXMLParsing.API\\BookXMLParsing.API.csproj|solutionrelative:src\\api\\bookxmlparsing.api\\wwwroot\\xmlfile\\book.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49A9044C-609E-49BC-B73B-046C759593A7}|src\\Core\\BookXMLParsing.Application\\BookXMLParsing.Application.csproj|d:\\ashish_old\\ashish\\neosoft\\musafirassignment\\bookxmlparsing_final\\bookxmlparsing\\src\\core\\bookxmlparsing.application\\dto\\invalidbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49A9044C-609E-49BC-B73B-046C759593A7}|src\\Core\\BookXMLParsing.Application\\BookXMLParsing.Application.csproj|solutionrelative:src\\core\\bookxmlparsing.application\\dto\\invalidbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49A9044C-609E-49BC-B73B-046C759593A7}|src\\Core\\BookXMLParsing.Application\\BookXMLParsing.Application.csproj|d:\\ashish_old\\ashish\\neosoft\\musafirassignment\\bookxmlparsing_final\\bookxmlparsing\\src\\core\\bookxmlparsing.application\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49A9044C-609E-49BC-B73B-046C759593A7}|src\\Core\\BookXMLParsing.Application\\BookXMLParsing.Application.csproj|solutionrelative:src\\core\\bookxmlparsing.application\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49A9044C-609E-49BC-B73B-046C759593A7}|src\\Core\\BookXMLParsing.Application\\BookXMLParsing.Application.csproj|d:\\ashish_old\\ashish\\neosoft\\musafirassignment\\bookxmlparsing_final\\bookxmlparsing\\src\\core\\bookxmlparsing.application\\dto\\validbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49A9044C-609E-49BC-B73B-046C759593A7}|src\\Core\\BookXMLParsing.Application\\BookXMLParsing.Application.csproj|solutionrelative:src\\core\\bookxmlparsing.application\\dto\\validbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B43A15-19C3-4F19-8ABA-8EE8B00F45BC}|src\\API\\BookXMLParsing.API\\BookXMLParsing.API.csproj|d:\\ashish_old\\ashish\\neosoft\\musafirassignment\\bookxmlparsing_final\\bookxmlparsing\\src\\api\\bookxmlparsing.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{50B43A15-19C3-4F19-8ABA-8EE8B00F45BC}|src\\API\\BookXMLParsing.API\\BookXMLParsing.API.csproj|solutionrelative:src\\api\\bookxmlparsing.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB23F01-D413-494F-9B05-DFF4E39D078F}|src\\Infrastructure\\BookXMLParsing.Persistence\\BookXMLParsing.Persistence.csproj|d:\\ashish_old\\ashish\\neosoft\\musafirassignment\\bookxmlparsing_final\\bookxmlparsing\\src\\infrastructure\\bookxmlparsing.persistence\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB23F01-D413-494F-9B05-DFF4E39D078F}|src\\Infrastructure\\BookXMLParsing.Persistence\\BookXMLParsing.Persistence.csproj|solutionrelative:src\\infrastructure\\bookxmlparsing.persistence\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49A9044C-609E-49BC-B73B-046C759593A7}|src\\Core\\BookXMLParsing.Application\\BookXMLParsing.Application.csproj|d:\\ashish_old\\ashish\\neosoft\\musafirassignment\\bookxmlparsing_final\\bookxmlparsing\\src\\core\\bookxmlparsing.application\\contracts\\persistence\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49A9044C-609E-49BC-B73B-046C759593A7}|src\\Core\\BookXMLParsing.Application\\BookXMLParsing.Application.csproj|solutionrelative:src\\core\\bookxmlparsing.application\\contracts\\persistence\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49A9044C-609E-49BC-B73B-046C759593A7}|src\\Core\\BookXMLParsing.Application\\BookXMLParsing.Application.csproj|d:\\ashish_old\\ashish\\neosoft\\musafirassignment\\bookxmlparsing_final\\bookxmlparsing\\src\\core\\bookxmlparsing.application\\profiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49A9044C-609E-49BC-B73B-046C759593A7}|src\\Core\\BookXMLParsing.Application\\BookXMLParsing.Application.csproj|solutionrelative:src\\core\\bookxmlparsing.application\\profiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49A9044C-609E-49BC-B73B-046C759593A7}|src\\Core\\BookXMLParsing.Application\\BookXMLParsing.Application.csproj|d:\\ashish_old\\ashish\\neosoft\\musafirassignment\\bookxmlparsing_final\\bookxmlparsing\\src\\core\\bookxmlparsing.application\\features\\query\\getallbookshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49A9044C-609E-49BC-B73B-046C759593A7}|src\\Core\\BookXMLParsing.Application\\BookXMLParsing.Application.csproj|solutionrelative:src\\core\\bookxmlparsing.application\\features\\query\\getallbookshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49A9044C-609E-49BC-B73B-046C759593A7}|src\\Core\\BookXMLParsing.Application\\BookXMLParsing.Application.csproj|d:\\ashish_old\\ashish\\neosoft\\musafirassignment\\bookxmlparsing_final\\bookxmlparsing\\src\\core\\bookxmlparsing.application\\features\\query\\getallbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49A9044C-609E-49BC-B73B-046C759593A7}|src\\Core\\BookXMLParsing.Application\\BookXMLParsing.Application.csproj|solutionrelative:src\\core\\bookxmlparsing.application\\features\\query\\getallbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetAllBooks.cs",
+              "DocumentMoniker": "D:\\Ashish_Old\\Ashish\\NeoSOFT\\MusafirAssignment\\BookXMLParsing_Final\\BookXMLParsing\\src\\Core\\BookXMLParsing.Application\\Features\\Query\\GetAllBooks.cs",
+              "RelativeDocumentMoniker": "src\\Core\\BookXMLParsing.Application\\Features\\Query\\GetAllBooks.cs",
+              "ToolTip": "D:\\Ashish_Old\\Ashish\\NeoSOFT\\MusafirAssignment\\BookXMLParsing_Final\\BookXMLParsing\\src\\Core\\BookXMLParsing.Application\\Features\\Query\\GetAllBooks.cs",
+              "RelativeToolTip": "src\\Core\\BookXMLParsing.Application\\Features\\Query\\GetAllBooks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T06:42:31.924Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "D:\\Ashish_Old\\Ashish\\NeoSOFT\\MusafirAssignment\\BookXMLParsing_Final\\BookXMLParsing\\src\\API\\BookXMLParsing.API\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "src\\API\\BookXMLParsing.API\\Controllers\\BookController.cs",
+              "ToolTip": "D:\\Ashish_Old\\Ashish\\NeoSOFT\\MusafirAssignment\\BookXMLParsing_Final\\BookXMLParsing\\src\\API\\BookXMLParsing.API\\Controllers\\BookController.cs",
+              "RelativeToolTip": "src\\API\\BookXMLParsing.API\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T09:35:19.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InvalidBookDTO.cs",
+              "DocumentMoniker": "D:\\Ashish_Old\\Ashish\\NeoSOFT\\MusafirAssignment\\BookXMLParsing_Final\\BookXMLParsing\\src\\Core\\BookXMLParsing.Application\\DTO\\InvalidBookDTO.cs",
+              "RelativeDocumentMoniker": "src\\Core\\BookXMLParsing.Application\\DTO\\InvalidBookDTO.cs",
+              "ToolTip": "D:\\Ashish_Old\\Ashish\\NeoSOFT\\MusafirAssignment\\BookXMLParsing_Final\\BookXMLParsing\\src\\Core\\BookXMLParsing.Application\\DTO\\InvalidBookDTO.cs",
+              "RelativeToolTip": "src\\Core\\BookXMLParsing.Application\\DTO\\InvalidBookDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T06:37:30.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookDTO.cs",
+              "DocumentMoniker": "D:\\Ashish_Old\\Ashish\\NeoSOFT\\MusafirAssignment\\BookXMLParsing_Final\\BookXMLParsing\\src\\Core\\BookXMLParsing.Application\\DTO\\BookDTO.cs",
+              "RelativeDocumentMoniker": "src\\Core\\BookXMLParsing.Application\\DTO\\BookDTO.cs",
+              "ToolTip": "D:\\Ashish_Old\\Ashish\\NeoSOFT\\MusafirAssignment\\BookXMLParsing_Final\\BookXMLParsing\\src\\Core\\BookXMLParsing.Application\\DTO\\BookDTO.cs",
+              "RelativeToolTip": "src\\Core\\BookXMLParsing.Application\\DTO\\BookDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T06:36:50.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResponseDTO.cs",
+              "DocumentMoniker": "D:\\Ashish_Old\\Ashish\\NeoSOFT\\MusafirAssignment\\BookXMLParsing_Final\\BookXMLParsing\\src\\Core\\BookXMLParsing.Application\\DTO\\ResponseDTO.cs",
+              "RelativeDocumentMoniker": "src\\Core\\BookXMLParsing.Application\\DTO\\ResponseDTO.cs",
+              "ToolTip": "D:\\Ashish_Old\\Ashish\\NeoSOFT\\MusafirAssignment\\BookXMLParsing_Final\\BookXMLParsing\\src\\Core\\BookXMLParsing.Application\\DTO\\ResponseDTO.cs",
+              "RelativeToolTip": "src\\Core\\BookXMLParsing.Application\\DTO\\ResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T06:35:43.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ValidBookDTO.cs",
+              "DocumentMoniker": "D:\\Ashish_Old\\Ashish\\NeoSOFT\\MusafirAssignment\\BookXMLParsing_Final\\BookXMLParsing\\src\\Core\\BookXMLParsing.Application\\DTO\\ValidBookDTO.cs",
+              "RelativeDocumentMoniker": "src\\Core\\BookXMLParsing.Application\\DTO\\ValidBookDTO.cs",
+              "ToolTip": "D:\\Ashish_Old\\Ashish\\NeoSOFT\\MusafirAssignment\\BookXMLParsing_Final\\BookXMLParsing\\src\\Core\\BookXMLParsing.Application\\DTO\\ValidBookDTO.cs",
+              "RelativeToolTip": "src\\Core\\BookXMLParsing.Application\\DTO\\ValidBookDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T09:29:38.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\Ashish_Old\\Ashish\\NeoSOFT\\MusafirAssignment\\BookXMLParsing_Final\\BookXMLParsing\\src\\Core\\BookXMLParsing.Application\\Profiles\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "src\\Core\\BookXMLParsing.Application\\Profiles\\MappingProfile.cs",
+              "ToolTip": "D:\\Ashish_Old\\Ashish\\NeoSOFT\\MusafirAssignment\\BookXMLParsing_Final\\BookXMLParsing\\src\\Core\\BookXMLParsing.Application\\Profiles\\MappingProfile.cs",
+              "RelativeToolTip": "src\\Core\\BookXMLParsing.Application\\Profiles\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T09:30:20.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Ashish_Old\\Ashish\\NeoSOFT\\MusafirAssignment\\BookXMLParsing_Final\\BookXMLParsing\\src\\API\\BookXMLParsing.API\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\API\\BookXMLParsing.API\\appsettings.json",
+              "ToolTip": "D:\\Ashish_Old\\Ashish\\NeoSOFT\\MusafirAssignment\\BookXMLParsing_Final\\BookXMLParsing\\src\\API\\BookXMLParsing.API\\appsettings.json",
+              "RelativeToolTip": "src\\API\\BookXMLParsing.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-18T07:33:17.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "D:\\Ashish_Old\\Ashish\\NeoSOFT\\MusafirAssignment\\BookXMLParsing_Final\\BookXMLParsing\\src\\Core\\BookXMLParsing.Application\\Contracts\\Persistence\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "src\\Core\\BookXMLParsing.Application\\Contracts\\Persistence\\IBookRepository.cs",
+              "ToolTip": "D:\\Ashish_Old\\Ashish\\NeoSOFT\\MusafirAssignment\\BookXMLParsing_Final\\BookXMLParsing\\src\\Core\\BookXMLParsing.Application\\Contracts\\Persistence\\IBookRepository.cs",
+              "RelativeToolTip": "src\\Core\\BookXMLParsing.Application\\Contracts\\Persistence\\IBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T09:31:21.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "D:\\Ashish_Old\\Ashish\\NeoSOFT\\MusafirAssignment\\BookXMLParsing_Final\\BookXMLParsing\\src\\Infrastructure\\BookXMLParsing.Persistence\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\BookXMLParsing.Persistence\\Repositories\\BookRepository.cs",
+              "ToolTip": "D:\\Ashish_Old\\Ashish\\NeoSOFT\\MusafirAssignment\\BookXMLParsing_Final\\BookXMLParsing\\src\\Infrastructure\\BookXMLParsing.Persistence\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "src\\Infrastructure\\BookXMLParsing.Persistence\\Repositories\\BookRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T09:33:26.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetAllBooksHandler.cs",
+              "DocumentMoniker": "D:\\Ashish_Old\\Ashish\\NeoSOFT\\MusafirAssignment\\BookXMLParsing_Final\\BookXMLParsing\\src\\Core\\BookXMLParsing.Application\\Features\\Query\\GetAllBooksHandler.cs",
+              "RelativeDocumentMoniker": "src\\Core\\BookXMLParsing.Application\\Features\\Query\\GetAllBooksHandler.cs",
+              "ToolTip": "D:\\Ashish_Old\\Ashish\\NeoSOFT\\MusafirAssignment\\BookXMLParsing_Final\\BookXMLParsing\\src\\Core\\BookXMLParsing.Application\\Features\\Query\\GetAllBooksHandler.cs",
+              "RelativeToolTip": "src\\Core\\BookXMLParsing.Application\\Features\\Query\\GetAllBooksHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T09:30:11.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.xml",
+              "DocumentMoniker": "D:\\Ashish_Old\\Ashish\\NeoSOFT\\MusafirAssignment\\BookXMLParsing_Final\\BookXMLParsing\\src\\API\\BookXMLParsing.API\\wwwroot\\XmlFile\\Book.xml",
+              "RelativeDocumentMoniker": "src\\API\\BookXMLParsing.API\\wwwroot\\XmlFile\\Book.xml",
+              "ToolTip": "D:\\Ashish_Old\\Ashish\\NeoSOFT\\MusafirAssignment\\BookXMLParsing_Final\\BookXMLParsing\\src\\API\\BookXMLParsing.API\\wwwroot\\XmlFile\\Book.xml",
+              "RelativeToolTip": "src\\API\\BookXMLParsing.API\\wwwroot\\XmlFile\\Book.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-12-18T07:29:47.589Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

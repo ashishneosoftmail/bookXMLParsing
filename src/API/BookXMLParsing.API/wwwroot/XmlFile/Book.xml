@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<books>
+	<book>
+		<title>Design Patterns</title>
+		<author>J K. Rowling</author>
+		<genre>DEF</genre>
+		<year>2005</year>
+		<publisher>http://history.example.com</publisher>
+	</book>
+	<!-- Invalid: year <= 0 -->
+	<book>
+		<title>Clean Code</title>
+		<author>Giada De Laurentiis</author>
+		<genre>ABC</genre>
+		<year>-2000</year>
+		<publisher>htt://history.example.com</publisher>
+	</book>
+	<!-- Invalid: publisher is not a URL -->
+	<book>
+		<title>Invalid Publisher Book</title>
+		<author>Mark Brown</author>
+		<genre>Technology</genre>
+		<year>2015</year>
+		<publisher>NotAValidUrl</publisher>
+	</book>
+</books>

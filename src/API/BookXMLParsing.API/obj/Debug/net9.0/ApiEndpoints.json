@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "BookXMLParsing.API.Controllers.BookController",
+    "Method": "GetAllBooks",
+    "RelativePath": "api/books/valid",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
